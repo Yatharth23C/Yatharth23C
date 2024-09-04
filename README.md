@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yatharth23C
 - 👀 I’m interested in Web development and automation with Python !
-- 🌱 I’m currently learning Web development using html css and js (front and backend)
+- 🌱 I’m currently learning Web development using React and NextJs(front and backend)
 - 💞️ I’m looking to collaborate on Any web dev project 
 - 📫 How to reach me mail me on : -yatharthchawhan23@gmail.com
 - 😄 Pronouns: He/him
